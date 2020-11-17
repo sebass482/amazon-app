@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Description
+
+Amazon-clone with basket functionality and homepage, using firebase and state management (contextAPI); I hold no rights or am not affiliated with amazon in any way. This is intended for practice-purposes ONLY. 
+
 ## Available Scripts
 
 In the project directory, you can run:
